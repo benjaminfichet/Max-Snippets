@@ -1,0 +1,2 @@
+# Max-Snippets
+Maxscript snippets 
